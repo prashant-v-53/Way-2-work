@@ -1,0 +1,1590 @@
+{
+  "@@locale": "en",
+  "@@last_modified": "2018-05-20T17:16:46.997414",
+  "localeCode": "EN",
+  "@localeCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appName": "Way 2 Work",
+  "@appName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "languageName": "English",
+  "@languageName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidEmail": "Enter valid email",
+  "@enterValidEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidPassword": "Enter valid password",
+  "@enterValidPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "checkYourEmailNow": "Check your E-mail",
+  "@checkYourEmailNow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidTaxNo": "Enter valid tax number",
+  "@enterValidTaxNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidSsnNo": "Enter valid SSN number",
+  "@enterValidSsnNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidFullName": "Enter valid full name",
+  "@enterValidFullName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eitherSSNorYTunnusShouldBeprovided": "Either SSN or Y-Tunnus should be provided",
+  "@eitherSSNorYTunnusShouldBeprovided": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectDate": "Please select date",
+  "@pleaseSelectDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "updatedSuccessfully": "Updated Successfully",
+  "@updatedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addWorkSucessfully": "Add work successfully",
+  "@addWorkSucessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deletedSuccessfully": "Deleted Successfully",
+  "@deletedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noImageSelected": "No image selected",
+  "@noImageSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contractValueNotGraterThanTotalWorkValue": "Contract value not grater than total work value",
+  "@contractValueNotGraterThanTotalWorkValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoiceCreatedSuccessfully": "Invoice created successfully",
+  "@invoiceCreatedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "alert": "Alert!",
+  "@alert": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToLogout": "Are you sure want to logout?",
+  "@areYouSureWantToLogout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ok": "Ok",
+  "@ok": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "No",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseOnlySelectPieces": "Please only select pieces",
+  "@pleaseOnlySelectPieces": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseOnlySelectHours": "Please only select hours",
+  "@pleaseOnlySelectHours": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectAtleastOneWorkedHour": "Select atleast one worked hour",
+  "@selectAtleastOneWorkedHour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insuranceService": "Insurance Service",
+  "@insuranceService": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insuranceNumber": "Insurance Number",
+  "@insuranceNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insuranceEmail": "Insurance Email",
+  "@insuranceEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "website": "Website",
+  "@website": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "package": "Package",
+  "@package": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "action": "Action",
+  "@action": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pressAgainToExitApp": "Press again to exit app",
+  "@pressAgainToExitApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signup": "Sign up",
+  "@signup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fullName": "Full Name",
+  "@fullName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "taxNumber": "Tax Number",
+  "@taxNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "Next",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addWorkDetails": "Add work details",
+  "@addWorkDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contractType": "Contract Type",
+  "@contractType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "Date",
+  "@date": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tripStart": "Trip Start",
+  "@tripStart": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tripEnds": "Trip Ends",
+  "@tripEnds": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tripAddresses": "Trip Addresses",
+  "@tripAddresses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "numberOfHoursWorked": "Number of hours worked",
+  "@numberOfHoursWorked": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "numberOfPieces": "Number of pieces",
+  "@numberOfPieces": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lunchCompensation": "Lunch compensation",
+  "@lunchCompensation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tripTime": "Trip Time",
+  "@tripTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "otherCompensations": "Other Compensations",
+  "@otherCompensations": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workDescription": "Work Description",
+  "@workDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterTripAddresses": "Enter trip addresses",
+  "@enterTripAddresses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterKM": "Enter KM",
+  "@enterKM": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterAmount": "Enter Amount",
+  "@enterAmount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterTripTime": "Enter trip time",
+  "@enterTripTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterHoursWorked": "Enter hours worked",
+  "@enterHoursWorked": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterPieces": "Enter pieces",
+  "@enterPieces": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "Submit",
+  "@submit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "manage": "Manage",
+  "@manage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "account": "Account",
+  "@account": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "updateProfile": "Update Profile",
+  "@updateProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender": "Gender",
+  "@gender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateOfBirth": "Date of Birth",
+  "@dateOfBirth": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentAddress": "Current Address",
+  "@currentAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "residence": "Residence",
+  "@residence": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nationality": "Nationality",
+  "@nationality": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mobilePhone": "Mobile Phone",
+  "@mobilePhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "homePhone": "Home Phone",
+  "@homePhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dashboard": "Dashboard",
+  "@dashboard": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoices": "Invoices",
+  "@invoices": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invite": "Invite",
+  "@invite": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myCV": "CV",
+  "@myCV": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workPermit": "Work Permit",
+  "@workPermit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workContract": "Work contract",
+  "@workContract": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "Edit",
+  "@edit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "socialSecurityNumber": "Social Security Number",
+  "@socialSecurityNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "receive": "Receive",
+  "@receive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notification": "Notifications",
+  "@notification": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onn": "On",
+  "@onn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "off": "Off",
+  "@off": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareLink": "Share Link",
+  "@shareLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerViaShareLinkReport": "Register via share link report",
+  "@registerViaShareLinkReport": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "proffesionalSummary": "Proffesional Summary",
+  "@proffesionalSummary": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "experience": "Experience",
+  "@experience": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "education": "Education",
+  "@education": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myJobApplications": "My Job Applications",
+  "@myJobApplications": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myAdditionalInformation": "Additional Information",
+  "@myAdditionalInformation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personalTax": "Personal Tax(%)",
+  "@personalTax": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maxTaxpercentage": "Max. Tax Percentage(%)",
+  "@maxTaxpercentage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yearlyIncome": "Yearly Income",
+  "@yearlyIncome": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bankAccInformation": "Bank Account Information",
+  "@bankAccInformation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bankName": "Bank Name",
+  "@bankName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountNumber": "Account Number",
+  "@accountNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bicNumber": "BIC Number",
+  "@bicNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterFullName": "Enter full name",
+  "@enterFullName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterCurrentAddres": "Enter current address",
+  "@enterCurrentAddres": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterMobileNo": "Enter mobile number",
+  "@enterMobileNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterHomePhone": "Enter home phone",
+  "@enterHomePhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterPersonalTaxNumber": "Enter personal tax number",
+  "@enterPersonalTaxNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterMaxTaxPercentage": "Enter max tax percentage",
+  "@enterMaxTaxPercentage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYearlyIncome": "Enter yearly income",
+  "@enterYearlyIncome": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectGender": "Select Gender",
+  "@selectGender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectNationality": "Select Nationality",
+  "@selectNationality": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "update": "Update",
+  "@update": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "day": "Day",
+  "@day": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "month": "Month",
+  "@month": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "year": "Year",
+  "@year": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addNewEmployers": "Add new Client",
+  "@addNewEmployers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameOfEmployer": "Client Name",
+  "@nameOfEmployer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employerTelephone": "Client Telephone",
+  "@employerTelephone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employerSSN": "Client SSN",
+  "@employerSSN": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employerYTunnus": "Client Business ID",
+  "@employerYTunnus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailOfEmployer": "Client E-Mail",
+  "@emailOfEmployer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employerTaxNo": "Client tax number",
+  "@employerTaxNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addressOfEmploye": "Client address",
+  "@addressOfEmploye": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addAttachmentForReceipt": "Add Attachment for Receipt",
+  "@addAttachmentForReceipt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "otherExpenses": "Other Expenses",
+  "@otherExpenses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "otherFiles": "Other Files",
+  "@otherFiles": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "multipleFiles": "Multiple Files",
+  "@multipleFiles": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reference": "Reference",
+  "@reference": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "explanation": "Explanation",
+  "@explanation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCountry": "Select Country",
+  "@selectCountry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "city": "City",
+  "@city": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "worked": "Worked",
+  "@worked": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hours": "Hours",
+  "@hours": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pieces": "Pieces",
+  "@pieces": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showingTotalEntries": "Showing Total Entries",
+  "@showingTotalEntries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createdOn": "Created On",
+  "@createdOn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workedHours": "Work Diary",
+  "@workedHours": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dailyCompensation": "Daily Compensation",
+  "@dailyCompensation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "extraInformation": "Extra Information",
+  "@extraInformation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "duplicate": "Duplicate",
+  "@duplicate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete": "Delete",
+  "@delete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "useInInvoice": "Use in invoice",
+  "@useInInvoice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employerDetails": "Client Details",
+  "@employerDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dailyWorkDetails": "Daily work details",
+  "@dailyWorkDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoiceData": "Invoice Data",
+  "@invoiceData": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addValidEmployerDetails": "Add valid Client details",
+  "@addValidEmployerDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addValidDailyWorkDetails": "Add valid daily work details",
+  "@addValidDailyWorkDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "modify": "Modify",
+  "@modify": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addMore": "Add More",
+  "@addMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contractValue": "Contract Value",
+  "@contractValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "taxVero": "Tax Vero",
+  "@taxVero": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dueDate": "Payment Term",
+  "@dueDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chooseFile": "Choose file",
+  "@chooseFile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noFileChoose": "No file choose",
+  "@noFileChoose": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Name",
+  "@name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "telephone": "Telephone",
+  "@telephone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Address",
+  "@address": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "type": "Type",
+  "@type": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addNew": "Add New",
+  "@addNew": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "creationDate": "Creation Date",
+  "@creationDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoiceId": "Invoice ID",
+  "@invoiceId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoiceTo": "Invoice To",
+  "@invoiceTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "status": "Status",
+  "@status": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paidStatus": "Paid Status",
+  "@paidStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "view": "View",
+  "@view": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "payment": "Payment",
+  "@payment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "anInvoiceWithCompensation": "Invoice with compensations",
+  "@anInvoiceWithCompensation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add": "Add",
+  "@add": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myDashboard": "Dashboard",
+  "@myDashboard": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "managePayment": "Invoices",
+  "@managePayment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "manageAccount": "Manage Account",
+  "@manageAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterContractValue": "Enter contract value",
+  "@enterContractValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fullhalfdaycompensation": "Full/Half day compensation",
+  "@fullhalfdaycompensation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "companyName": "Company Name",
+  "@companyName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "savedAsDraft": "Save as draft",
+  "@savedAsDraft": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoiceSavedSuccessfully": "Invoice saved successfully",
+  "@invoiceSavedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "distance": "Distance",
+  "@distance": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeInvoice": "Create invoice",
+  "@makeInvoice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "somethingWentToWrong": "Something went to wrong !",
+  "@somethingWentToWrong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInternetConnection": "No Internet Connection",
+  "@noInternetConnection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "camera": "Camera",
+  "@camera": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "file": "File",
+  "@file": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageDeletedSuccessfully": "Image Deleted Successfully",
+  "@imageDeletedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectEmployer": "Please select employer",
+  "@pleaseSelectEmployer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidFileName": "Enter valid file name",
+  "@enterValidFileName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectExpiryDate": "Please select expiry date",
+  "@pleaseSelectExpiryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectFile": "Please select file",
+  "@pleaseSelectFile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workSafetyCard": "Work Safety Card",
+  "@workSafetyCard": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "idCard": "ID Card",
+  "@idCard": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passport": "Passport",
+  "@passport": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drivingLicense": "Driving License",
+  "@drivingLicense": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "residencePermit": "Residence Permit",
+  "@residencePermit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mycv": "CV",
+  "@mycv": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "otherDocuments": "Other",
+  "@otherDocuments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectDocumentType": "Please select document type",
+  "@pleaseSelectDocumentType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidYearlyIncome": "Enter valid yearly income",
+  "@enterValidYearlyIncome": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidPersonalTax": "Enter valid personal tax",
+  "@enterValidPersonalTax": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidMaxTaxPercentage": "Enter valid max tax percentage",
+  "@enterValidMaxTaxPercentage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectStartDate": "Please select start date",
+  "@pleaseSelectStartDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "filesAreNotSavedYet": "Files aren't saved yet but,",
+  "@filesAreNotSavedYet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "draftSavedSuccessfully": "Draft saved successfully",
+  "@draftSavedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectAreaOfField": "Select area of field",
+  "@selectAreaOfField": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "send": "Send",
+  "@send": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insuranceRequestSentSuccessfully": "Insurance request sent successfully",
+  "@insuranceRequestSentSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInternet": "No Internet",
+  "@noInternet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "checkYourInternetConnectionAndTryAgain": "Check your internet connection and try again.",
+  "@checkYourInternetConnectionAndTryAgain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insuranceName": "Insurance Name",
+  "@insuranceName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendEmail": "Send Email",
+  "@sendEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourName": "Your Name",
+  "@yourName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourProffesion": "Your Profession",
+  "@yourProffesion": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lightEntrepreneurSSN": "Light Entrepreneur SSN",
+  "@lightEntrepreneurSSN": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yelApproximateSumFor2020": "YEL - approximate sum for 2020",
+  "@yelApproximateSumFor2020": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone": "Phone",
+  "@phone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsAndConditions": "Terms And Conditions",
+  "@termsAndConditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectLanguage": "Select language",
+  "@selectLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "Save",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "incomeLevel": "Income Level",
+  "@incomeLevel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "receiveDocument": "Received Documents",
+  "@receiveDocument": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoiceAmount": "Invoice Amount",
+  "@invoiceAmount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "payToAccount": "Paid to account",
+  "@payToAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "uploadContract": "Upload Contract",
+  "@uploadContract": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectEmployer": "Select Employer",
+  "@selectEmployer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fileName": "File Name",
+  "@fileName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "expiryDate": "Expiry Date",
+  "@expiryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "uploadFile": "Upload File",
+  "@uploadFile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employer": "Employer",
+  "@employer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employerEmail": "Employer email",
+  "@employerEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employerPhone": "Employer phone",
+  "@employerPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lightEntrepreneurEmail": "Light Entrepreneur Email",
+  "@lightEntrepreneurEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sentOn": "Sent On",
+  "@sentOn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "documentTitle": "Document Title",
+  "@documentTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "description": "Description",
+  "@description": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "viewFile": "View File",
+  "@viewFile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "piecesValue": "Pieces Value",
+  "@piecesValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hoursValue": "Hour value",
+  "@hoursValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalAmount": "Total Amount",
+  "@totalAmount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addMyDocument": "Add my document",
+  "@addMyDocument": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "documentType": "Document Type",
+  "@documentType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "startDate": "Start Date",
+  "@startDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "documentName": "Document Name",
+  "@documentName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lightEntrepreneurPhone": "Light Entrepreneur Phone",
+  "@lightEntrepreneurPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lightEntrepreneurTaxNo": "Light Entrepreneur Tax Number",
+  "@lightEntrepreneurTaxNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lightEntrepreneurBillingAddress": "Light Entrepreneur Billing Address",
+  "@lightEntrepreneurBillingAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoicingEmail": "Invoicing Email",
+  "@invoicingEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "worksiteAddress": "Worksite Address",
+  "@worksiteAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referenceNumber": "Reference Number",
+  "@referenceNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "beginningOfWork": "Beginning of work",
+  "@beginningOfWork": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workFinishedOn": "Work Finished On",
+  "@workFinishedOn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "billingInterval": "Billing Interval",
+  "@billingInterval": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "otherInformation": "Other Information",
+  "@otherInformation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoicingBy": "Invoicing by",
+  "@invoicingBy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employerSignatute": "Employer Signature",
+  "@employerSignatute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lightEntrepreneurSignature": "Light Entrepreneur Signature",
+  "@lightEntrepreneurSignature": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "foodType": "Food Type",
+  "@foodType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "foodValue": "Food Value",
+  "@foodValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "travellingType": "Travelling Type",
+  "@travellingType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "travellingValue": "Travelling Value",
+  "@travellingValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "acceptedByLightEntrepreneur": "Accepted by light entrepreneur",
+  "@acceptedByLightEntrepreneur": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contractByFile": "Contract by file",
+  "@contractByFile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myContract": "My Contract",
+  "@myContract": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contractName": "Contract Name",
+  "@contractName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myDocument": "Documents",
+  "@myDocument": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warningYouMustAddDocumentLike": "Warning ! You must add document like",
+  "@warningYouMustAddDocumentLike": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eContract": "E-Contract",
+  "@eContract": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "download": "Download",
+  "@download": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "documentExpired": "Document Expired",
+  "@documentExpired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "documentNotExpired": "Document Not Expired",
+  "@documentNotExpired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accept": "Accept",
+  "@accept": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "agree": "Agree",
+  "@agree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pending": "Pending",
+  "@pending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "days": "Days",
+  "@days": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "approved": "Approved",
+  "@approved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notPaid": "Not paid",
+  "@notPaid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paid": "Paid",
+  "@paid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ssn": "SSN",
+  "@ssn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noEmployeeFound": "No Employee Found",
+  "@noEmployeeFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contractOf": "Contract Of",
+  "@contractOf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select": "Select",
+  "@select": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "vat": "VAT",
+  "@vat": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bruttoSalary": "Brutto Salary",
+  "@bruttoSalary": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bulkAmount": "Bulk Amount",
+  "@bulkAmount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "earnedSoFar": "Earned so far",
+  "@earnedSoFar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectGender": "Please select gender",
+  "@pleaseSelectGender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidCurrentAddress": "Enter valid current address",
+  "@enterValidCurrentAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectCountry": "Please select country",
+  "@pleaseSelectCountry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidCity": "Enter valid city",
+  "@enterValidCity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotPassword": "Forgot Password",
+  "@forgotPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "firstName": "First Name",
+  "@firstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "Last Name",
+  "@lastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidFirstName": "Enter valid first name",
+  "@enterValidFirstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidLastName": "Enter valid last name",
+  "@enterValidLastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterLastName": "Enter Last Name",
+  "@enterLastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterFirstName": "Enter First Name",
+  "@enterFirstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tACPoint1": "1. The Provision of Services \n\n1.1. The Contractor will perform the Services for the Principal as specified in Annex I (and any subsequent Annexes entered into between the Principal and the Contractor that supplement and form a part of this Agreement from time to time) and subject to the terms of this Agreement. The Contractor will use its reasonable endeavours to comply with any timetable or other targets for progress or delivery or completion of the Services as agreed in writing between the Princiapl and the Contractor. \n\n1.2. The Contractor will ensure that in provision of the Services the Contractor complies with all applicable laws, rules and regulations relevant to the provision of the Services (including without limitation, rules and regulations in respect of statutory obligations, data protection legislation, health and safety, and security). \n\n1.3 The Contractor shall comply with all reasonable standards of safety and the Principal’s health and safety procedures from time to time in force and report to the Principal any unsafe working conditions or practices. \n\n1.4 The Contractor shall comply with the Principal’s policies on social media, confidentiality, security, use of information and communication systems, anti- harassment and bullying, code of conduct and any other policy applicable to contractors published by the Principal from time to time. \n\n1.5 The Contractor will provide the Services with all due care, diligence and professional skill and comply and co-operate with any quality control procedures that are notified to the Contractor by the Principal. \n\n1.6 Any incorrect or defective work arising as a result of the Services shall be remedied by the Contractor in the Contractor’s own time and at the Contractor’s own cost. \n\n1.7 The Services will be provided at the site(s) specified from time to time by the Principal. \n\n1.8 The Principal will provide for the use of the Contractor any such equipment as may reasonably be required for performing the Services, including (where necessary) adequate computer, voice and data technology and a suitable car (adequately insured for business use). It is the Principal’s responsibility to adequately insure any such equipment as appropriate. \n\n1.9 The Contractor shall not be required to provide any advice and assistance outside the scope of the Services. \n\n1.10 Save to the extent required by the Principal, and subject to arrangements for meetings and liaison, the Contractor will determine the time and place at which to carry out the Services and save as set out in this Agreement neither it nor its Contractor Representatives will be subject to control either by the Principal as to the nature, place, time or manner in which the Services are to be provided. \n\n1.11 The Contractor will comply with the EU Working Time Directive 2003 as implemented in the EU Member State in which the Assignment is carried out by the Contractor engaged on the Services. The Contractor may take holiday at a reasonable time on prior notice. For the avoidance of doubt, the Principal shall have no responsibility in respect of holiday pay for any Contractor. \n\n1.12 The Contractor shall: \n\n(a) comply with all applicable laws, regulations, codes and sanctions relating to anti-bribery and anti-corruption including but not limited to all applicable anti- money laundering, bribery and anti-corruption legislation; \n\n(b) comply with any and all ethics, anti-bribery and anti-corruption policies published by the Principal; \n\n(e) promptly report to the Principal any request or demand for any undue financial or other advantage of any kind received by the Contractor in connection with the performance of the Services; \n\n1.13 Failure to comply with clause 1.12 will result in the termination of this Agreement without notice. \n\n2. Payment \n\n2.1. Subject to satisfactory performance of the Services, the Principal agrees to pay the Contractor for the Services in accordance with the Schedule and the rates specified in the relevant Annex. Payments will be made monthly in arrears to the Contractor within 7 days of receipt by the Principal of a valid and accurate invoice supported by work progress/timesheets (or, where applicable, project reports detailing the work performed together with an analysis of hours spent), signed by the Contractor. \n\n2.2. Payments made will relate to days or proportions of days for which the Services have actually been provided only and no payment will be made by the Principal unless supported by a work progress/timesheet properly completed as instructed by the Principal’s representative and duly approved by such the Principal representative. It is the Contractor’s obligation to procure the approval of and the production to the Principal of work progress/timesheets. \n\n3. Expenses \n\n3.1. The Principal will not reimburse the Contractor for any expenses incurred unless otherwise stated in the Schedule. \n\n4. Duration and Termination \n\n4.1. This Agreement shall remain in force until all Assignments are completed as defined in the relevant Annexes, unless terminated earlier in accordance with the terms of this Agreement or extended by the agreement between the Principal and the Contractor. \n\n4.2. Without prejudice to any other rights and remedies to which the Principal may be entitled under this Agreement, the Principal may terminate this Agreement with immediate effect without notice and without any liability to make any further payment to the Contractor (other than in respect of amounts accrued before the date of such termination) if at any time: \n\n4.2.1 the Contractor commits any serious or repeated breach or non-observance of any of the provisions of this agreement or refuses or neglects to comply with any reasonable and lawful directions of the Principal; \n\n4.2.2 the Contractor is convicted of any criminal offence (other than an offence under any road traffic legislation for which a fine or non-custodial penalty is imposed); 4.2.3 the Contractor is in the reasonable opinion of the Principal negligent or incompetent in the performance of the Services; \n\n4.2.4 the Contractor becomes bankrupt or makes a voluntary arrangement with his or her creditors; \n\n4.2.5 the Contractor commits any fraud or dishonesty or acts in any manner which in the opinion of the Principal brings or is capable of bringing the Contractor or the Principal into disrepute or is materially adverse to the interests of the Principal; \n\n4.2.6 the Contractor commits any serious breach of the Principal’s policies and procedures; or \n\n4.2.8 The Contractor wilfully or negligently introduces a virus or other harmful code to the Contractor’s or the Principal’s hardware or software used in the performance of the Services. \n\n4.3. At any time during this Agreement and, in any event, upon termination of this Agreement, for whatever reason: \n\n4.3.1 the Principal will be entitled to a copy of all work carried out or completed by the Contractor in the performance of the Services under this Agreement in the form in which it exists at the time; and \n\n4.3.2 The Contractor will return to the Principal all equipment, documentation or other property in the Contractor’s possession or under his control belonging to the Principal. \n\n4.4. The Principal may, with the agreement of the Contractor, extend the terms of the Agreement for a period agreed between the parties. \n\n5. Intellectual Property \n\n5.1. All rights, title and interest of whatever nature (including but not limited to copyright, designs and patent application rights) in any work undertaken or material produced by the Contractor in the course of the Services (the “Project Materials”) will vest in and belong to the Principal at all times, and free from any interest of the Contractor, the Contractor Representative or any third party. The Contractor will do anything that the Principal may reasonably require in order to effectively vest such rights in the Principal or such third party as the Principal specifies or to evidence the same (whether before or after the termination of this Agreement). \n\n5.2. The Principal shall retain ownership of all intellectual property rights of whatever nature and, if registerable, whether registered or not, in the document or other material and data and other information provided to the Contractor in the context of this Agreement. \n\n5.3. The Contractor will promptly disclose to the Principal any idea, method, invention, discovery, design, concept or other work made or created by the Contractor in the course of the Services. \n\n5.4. The Contractor warrants that Services provided are not in breach of the intellectual property rights of any other third party, and will indemnify the Principal against all and any actions, claims, costs, expenses, damages, demands and liabilities whatsoever and howsoever incurred resulting from or arising out of any claim by a third party that the use of or possession of any work performed by or delivered by the Contractor in connection with this Agreement infringes the intellectual property rights of that third party, save that this will not apply where the infringement results directly from the compliance with any specifications issued by the Principal. \n\n5.5 The Contractor hereby unconditionally, irrevocably and in perpetuity waives all moral rights and all rights of a similar nature under the laws of any jurisdiction in respect of the Project Materials. \n\n5.6 The provisions of this paragraph 5 shall survive the expiration or termination of this Agreement, howsoever arising. \n\n6. Force Majeure \n\n6.1. Neither party shall have any liability to the other for delay or loss occasioned by any circumstance which is outside that party’s reasonable control to prevent (including but not limited to war, industrial dispute, fire, explosion, natural disaster, death). \n\n7. Other Activities \n\n7.1. Nothing in this Agreement shall prevent the Contractor from being engaged, concerned or having any financial interest in any capacity in any other business, trade, profession or occupation during the term of this Agreement and thereafter from the termination of this Agreement provided that such activity does not cause a breach of any of the Contractor's obligations under this Agreement (and in particular the obligations under clause 8). \n\n8. Confidentiality \n\n8.1 The term 'Confidential Information' shall mean any and all materials and information, disclosed by or otherwise obtained from the Principal or any third party as a result of this Agreement, whether written or oral, including, but not limited to: \n\n8.1.1 technical, financial, commercial or other information which relates to the business, financial affairs, methods of operation or proposed methods of operation, accounts, transactions or products, proposed transactions or proposed products, security procedures, trade secrets, know-how, inventions, internal controls or computer or data processing programs, algorithms, electronic data processing applications, routines, subroutines, techniques or systems of the Principal or of any third party or their affiliates, customers, clients, agents, subcontractors; \n\n8.1.2 information or data relating to the Principal or any third party’s systems, operations, policies, procedures, techniques, business plans, accounts or personnel; \n\n8.1.3 the identities and other related information of the Principal’s and any third party’s suppliers and clients; \n\n8.2 Notwithstanding the foregoing, 'Confidential Information' shall not include any information that: \n\n8.2.1 becomes generally available to the public through no act or default on the part of the Contractor; \n\n8.2.2 was already available to the Contractor without restriction in relation to disclosure before the date of receipt of the Confidential Information from the Principal or any third party. \n\n8.3 The Contractor agrees: 8.3.1 to employ all reasonable measures to protect the Confidential Information from unauthorized or inadvertent disclosure, including measures no less protective than those measures that it employs to protect its own information of a like nature; \n\n8.3.2 not to publish or disclose the fact that the Confidential Information has been made available or that it has entered into an arrangement regarding the subject matter hereof; \n\n8.3.3 to restrict internal access to the Confidential Information to those employees and non-employee consultants with a 'need to know', who are either subject to a non-disclosure policy established by the Principal as their employer or have executed a non-disclosure agreement reasonably designed to maintain the confidentiality of the Confidential Information; \n\n8.3.4 to be responsible for any breach of this Agreement by its employees, non- employee consultants or agents; \n\n8.3.5 that notwithstanding the return of any Confidential Information in accordance with this paragraph 8, it shall, and shall ensure that its employees, non- employee consultants and agents continue to hold in confidence all Confidential Information, which obligation shall survive any expiration or termination of this Agreement; \n\n8.3.6 that the Principal shall have the right to such injunctive or other equitable relief from a court of competent jurisdiction as may be necessary or appropriate to prevent any use or disclosure of Confidential Information in any manner which has not been authorized by the Principal or any third party without the necessity of proving actual damages, in addition to, and independent of, any damages which the Principal or any third party shall have incurred as a result of the breach; and \n\n8.3.7 that upon request by the Principal at any time, the Contractor shall promptly either deliver all Confidential Information in tangible form then in its possession or under its control to the Principal or, if so directed by the Principal, confirm in writing to the Principal that all such Confidential Information has been destroyed. \n\n8.4 If the Contractor is requested or required (by oral questions, interrogatories, requests for information or documents, subpoena, civil investigative demand or similar process) to disclose any Confidential Information, it is agreed that they shall, to the extent permitted by law, provide the Principal with prompt notice of such request(s) or obligation so that it may seek an appropriate protective order and/or waive compliance with the provisions of this Agreement. \n\n8.5 The obligations imposed by this paragraph 8 shall survive any expiration or termination of this Agreement. \n\n9. Mutuality of Obligation \n\n9.1. Neither the Principal nor the Contractor is obliged to provide future work or services following completion of the Services or termination of this Agreement howsoever caused. \n\n10. Light Entrepreneurship \n\n10.1. This Agreement with the Principal is entered into by the Contractor as a light entrepreneur. For the avoidance of doubt, the Contractor is acting in connection with this Agreement as an independent consultant. The Contractor is not and will not be an employee or agent of the Principal and the Contractor assumes full responsibility for the Contractor’s acts and omissions. \n\n11. Indemnity \n\n11.1. The Contractor shall indemnify and keep indemnified the Principal, its directors, employees and agents against all and any actions, claims, costs, expenses, damages and liabilities whatsoever and howsoever incurred resulting or arising from any negligent, wrongful or unlawful act or omission of the Contractor. \n\n11.2 Without limitation to the foregoing the Contractor hereby undertakes to indemnify the Principal and to keep it indemnified against any damage, demand, loss, expense, claim, action, or liability arising out of any breach by the Contractor of this Agreement. \n\n12. Liability \n\n12.1. In no circumstances will either party be liable to the other for any indirect, special or consequential loss or damage arising out of or in connection with this Agreement. In particular, and without limitation to the aforegoing, neither party will be liable for any loss by the other of business, revenue, profits, anticipated savings and goodwill save where such loss arises as a result of a breach of this Agreement. \n\n12.2. Neither party excludes or limits liability for death or personal injury, to the extent only that the same arises as a result of its negligence or that of its employees, agents or authorised representatives. \n\n13. VAT \n\n13.1. All sums payable by the Principal to the Contractor shall, unless otherwise agreed, be exclusive of Value Added Tax for which the Contractor will be responsible and which shall be charged in addition to the rate in effect on the date of the invoice. \n\n14. Publicity \n\n14.1. The Contractor shall not make any public disclosures relating to this Agreement or the subject matter of this Agreement except for the purposes of this Agreement and as agreed by the Principal, or for any disclosure required by law. \n\n15. Insurance \n\n15.1 It is a condition of this Agreement that the Contractor will maintain professional indemnity insurance for an amount not less than £1 million and employer’s liability and public liability insurance for a total amount of not less than £1 million for the entire duration of this Agreement (including any agreed extension) and shall produce copies of each such policy within 7 days of a request by the Principal. \n\n17. Severability \n\n17.1 In the event that any provision or part thereof of this Agreement is held to be invalid or unenforceable, the remaining provisions and parts of this Agreement shall remain in full force and in effect. \n\n18. Waiver \n\n18.1 The waiver by either party of any default or breach of this Agreement shall not constitute a waiver of any other or subsequent default or breach. \n\n19. Entire Agreement \n\n19.1 This Agreement cannot be modified or amended except by agreement between the parties, which must be in writing and signed by each party. \n\n20. Construction \n\n20.1 Headings have been included for convenience only and shall not be used in constructing any provision of this Agreement. \n\n21. Governing Law \n\n21.1 This Agreement shall be governed by and interpreted in accordance with Finnish Law. The parties agree to submit to the exclusive jurisdiction of the courts of Finland.",
+  "@tACPoint1": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "taxCard": "Tax Card",
+  "@taxCard": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "foodCompensation": "Food Compensation",
+  "@foodCompensation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hoursWorked": "Hours Worked",
+  "@hoursWorked": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "amount": "Amount",
+  "@amount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contruction": "Construction sector reverse charge AVL 8 c §",
+  "@contruction": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notSelected": "not selected",
+  "@notSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerSuccessfull": "Registration successful!  Your account is being reviewed.",
+  "@registerSuccessfull": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "value": "Value",
+  "@value": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workbook": "Workbook",
+  "@workbook": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "male": "Male",
+  "@male": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "female": "Female",
+  "@female": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addDetails": "Add details",
+  "@addDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInvoices": "No invoices",
+  "@noInvoices": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidConfirmPassword": "Enter valid confirm password",
+  "@enterValidConfirmPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "company": "Company",
+  "@company": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "client": "Private customer",
+  "@client": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoiceRecipient": "Invoice Recipient",
+  "@invoiceRecipient": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workDetails": "Work details",
+  "@workDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseAddOrUpdateYourTaxCard": "Please Add or Update your Tax Card",
+  "@pleaseAddOrUpdateYourTaxCard": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "distanceTravelled": "Distance Travelled",
+  "@distanceTravelled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "construction": "Construction",
+  "@construction": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cleaningServices": "Cleaning Services",
+  "@cleaningServices": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "transportationServices": "Transportation Services",
+  "@transportationServices": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notInUse": "Not In Use",
+  "@notInUse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "entervalidHoursvalue": "Enter valid hours value",
+  "@entervalidHoursvalue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidPiecesvalue": "Enter valid pieces value",
+  "@enterValidPiecesvalue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidKm": "Enter valid km",
+  "@enterValidKm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidDocumentName": "Enter valid document name",
+  "@enterValidDocumentName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendInvitation": "Send Invitation",
+  "@sendInvitation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "link": "Link",
+  "@link": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "linkCopySuccessfully": "Link copy successfully",
+  "@linkCopySuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invitationLinkSentSuccessfully": "Invitation link send successfully",
+  "@invitationLinkSentSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
+

@@ -1,0 +1,1589 @@
+{
+  "@@locale": "et",
+  "@@last_modified": "2018-05-20T17:16:46.997414",
+  "localeCode": "ET",
+  "@localeCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appName": "Way 2 Work",
+  "@appName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "languageName": "Estonian",
+  "@languageName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidEmail": "Sisestage kehtiv E-posti aadress",
+  "@enterValidEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidPassword": "Sisestage kehtiv parool",
+  "@enterValidPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "checkYourEmailNow": "Kontrollige oma E-posti aadress",
+  "@checkYourEmailNow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidTaxNo": "Sisestage kehtiv maksunumber",
+  "@enterValidTaxNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidSsnNo": "Sisestage kehtiv isikukood",
+  "@enterValidSsnNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidFullName": "Sisestage kehtiv täisnimi",
+  "@enterValidFullName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eitherSSNorYTunnusShouldBeprovided": "Peate sisestama isikukoodi või registrikoodi",
+  "@eitherSSNorYTunnusShouldBeprovided": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectDate": "Palun valige kuupäev",
+  "@pleaseSelectDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "updatedSuccessfully": "Värskendatud!",
+  "@updatedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addWorkSucessfully": "Üksikasjad lisatud edukalt!",
+  "@addWorkSucessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deletedSuccessfully": "Kustutamine õnnestus!",
+  "@deletedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noImageSelected": "Ühtegi pilti pole valitud",
+  "@noImageSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contractValueNotGraterThanTotalWorkValue": "Lepingu väärtus ei ole kõrgem kui kogu töö väärtus",
+  "@contractValueNotGraterThanTotalWorkValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoiceCreatedSuccessfully": "Arve koostamine õnnestus",
+  "@invoiceCreatedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "alert": "Hoiatus!",
+  "@alert": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToLogout": "Kas soovite kindlasti välja logida?",
+  "@areYouSureWantToLogout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ok": "Ok",
+  "@ok": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "Ei",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseOnlySelectPieces": "Valige tükid",
+  "@pleaseOnlySelectPieces": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseOnlySelectHours": "Valige tunnid",
+  "@pleaseOnlySelectHours": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectAtleastOneWorkedHour": "Valige vähemalt üks tööpäev",
+  "@selectAtleastOneWorkedHour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insuranceService": "Kindlustusteenus",
+  "@insuranceService": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insuranceNumber": "Kindlustusnumber",
+  "@insuranceNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insuranceEmail": "Kindlustuse E-post",
+  "@insuranceEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "website": "Veebisait",
+  "@website": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "package": "Pakett",
+  "@package": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "action": "Tegevus",
+  "@action": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pressAgainToExitApp": "Rakendusest väljumiseks vajutage uuesti",
+  "@pressAgainToExitApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "E-post",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Parool",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signup": "Registreeri",
+  "@signup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fullName": "Täisnimi",
+  "@fullName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "taxNumber": "Maksunumber",
+  "@taxNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "Järgmine",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addWorkDetails": "Lisage töö üksikasjad",
+  "@addWorkDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contractType": "Lepingu liik",
+  "@contractType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "Kuupäev",
+  "@date": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tripStart": "Reisi algus",
+  "@tripStart": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tripEnds": "Reis lõpeb",
+  "@tripEnds": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tripAddresses": "Reisi aadressid",
+  "@tripAddresses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "numberOfHoursWorked": "Töötundide arv",
+  "@numberOfHoursWorked": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "numberOfPieces": "Tükkide arv",
+  "@numberOfPieces": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lunchCompensation": "Lõuna hüvitis",
+  "@lunchCompensation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tripTime": "Reisi aeg",
+  "@tripTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "otherCompensations": "Muud hüvitised",
+  "@otherCompensations": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workDescription": "Töö kirjeldus",
+  "@workDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterTripAddresses": "Sisestage reisi aadressid",
+  "@enterTripAddresses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterKM": "Sisestage kilomeetrid",
+  "@enterKM": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterAmount": "Sisestage summa",
+  "@enterAmount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterTripTime": "Sisestage reisi aeg",
+  "@enterTripTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterHoursWorked": "Sisestage töötunnid",
+  "@enterHoursWorked": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterPieces": "Sisestage tükid",
+  "@enterPieces": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "Saada",
+  "@submit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "manage": "Halda",
+  "@manage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "account": "Profiil",
+  "@account": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "updateProfile": "Uuenda Profiili",
+  "@updateProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender": "Sugu",
+  "@gender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateOfBirth": "Sünnikuupäev",
+  "@dateOfBirth": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentAddress": "Praegune aadress",
+  "@currentAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "residence": "Elukoht",
+  "@residence": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nationality": "Rahvus",
+  "@nationality": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mobilePhone": "Mobiiltelefon",
+  "@mobilePhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "homePhone": "Kodutelefon",
+  "@homePhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dashboard": "Töölaud",
+  "@dashboard": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoices": "Arved",
+  "@invoices": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invite": "Kutsu",
+  "@invite": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myCV": "CV",
+  "@myCV": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workPermit": "Töölubat",
+  "@workPermit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workContract": "Tööleping",
+  "@workContract": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "Muuda",
+  "@edit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "socialSecurityNumber": "Isikukood",
+  "@socialSecurityNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "receive": "Võta vastu",
+  "@receive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notification": "Teavitused",
+  "@notification": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onn": "Peal",
+  "@onn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "off": "Väljas",
+  "@off": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareLink": "Jaga linki",
+  "@shareLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerViaShareLinkReport": "Registreeru jagamislingi kaudu",
+  "@registerViaShareLinkReport": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "proffesionalSummary": "Professionaalne kokkuvõte",
+  "@proffesionalSummary": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "experience": "Kogemus",
+  "@experience": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "education": "Haridus",
+  "@education": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myJobApplications": "Minu taotlused",
+  "@myJobApplications": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myAdditionalInformation": "Lisateave",
+  "@myAdditionalInformation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personalTax": "Isiklik maksu (%)",
+  "@personalTax": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maxTaxpercentage": "Ülemine maksu (%)",
+  "@maxTaxpercentage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yearlyIncome": "Aastane sissetulek",
+  "@yearlyIncome": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bankAccInformation": "Pangakonto teave",
+  "@bankAccInformation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bankName": "Panga nimi",
+  "@bankName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountNumber": "Konto number",
+  "@accountNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bicNumber": "BIC-number",
+  "@bicNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterFullName": "Sisestage täisnimi",
+  "@enterFullName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterCurrentAddres": "Sisestage praegune aadress",
+  "@enterCurrentAddres": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterMobileNo": "Sisestage mobiilinumber",
+  "@enterMobileNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterHomePhone": "Sisestage kodune telefon",
+  "@enterHomePhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterPersonalTaxNumber": "Sisestage isiklik maksunumber",
+  "@enterPersonalTaxNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterMaxTaxPercentage": "Sisestage maksimaalne maksuprotsente",
+  "@enterMaxTaxPercentage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYearlyIncome": "Sisestage aastane sissetulek",
+  "@enterYearlyIncome": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectGender": "Vali sugu",
+  "@selectGender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectNationality": "Valige Kodakondsus",
+  "@selectNationality": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "update": "Uuenda",
+  "@update": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "day": "Päev",
+  "@day": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "month": "Kuu",
+  "@month": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "year": "Aasta",
+  "@year": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addNewEmployers": "Lisa uus Tellija",
+  "@addNewEmployers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameOfEmployer": "Tellija nimi",
+  "@nameOfEmployer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employerTelephone": "Tellija telefon",
+  "@employerTelephone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employerSSN": "Tellija isikukood",
+  "@employerSSN": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employerYTunnus": "Tellija registrikood",
+  "@employerYTunnus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailOfEmployer": "Tellija E-post",
+  "@emailOfEmployer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employerTaxNo": "Tellija maksunumber",
+  "@employerTaxNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addressOfEmploye": "Tellija aadress",
+  "@addressOfEmploye": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addAttachmentForReceipt": "Lisage kviitungile manus",
+  "@addAttachmentForReceipt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "otherExpenses": "Muud kulud",
+  "@otherExpenses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "otherFiles": "Muud failid",
+  "@otherFiles": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "multipleFiles": "Mitu faili",
+  "@multipleFiles": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reference": "Viide",
+  "@reference": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "explanation": "Selgitus",
+  "@explanation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCountry": "Vali riik",
+  "@selectCountry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "city": "Linn",
+  "@city": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "worked": "Töötas",
+  "@worked": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hours": "Tunnid",
+  "@hours": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pieces": "Tk",
+  "@pieces": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showingTotalEntries": "Kuvatakse sisestusi kokku",
+  "@showingTotalEntries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createdOn": "Loodud",
+  "@createdOn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workedHours": "Tööraamat",
+  "@workedHours": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dailyCompensation": "Igapäevane hüvitis",
+  "@dailyCompensation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "extraInformation": "Lisainformatsioonn",
+  "@extraInformation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "duplicate": "Duplikaat",
+  "@duplicate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete": "Kustuta",
+  "@delete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "useInInvoice": "Moodustage arve",
+  "@useInInvoice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employerDetails": "Tellija andmed",
+  "@employerDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dailyWorkDetails": "Igapäevase töö andmed",
+  "@dailyWorkDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoiceData": "Arve andmed",
+  "@invoiceData": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addValidEmployerDetails": "Lisage kehtiva Tellija andmed",
+  "@addValidEmployerDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addValidDailyWorkDetails": "Lisage arve sisu",
+  "@addValidDailyWorkDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "modify": "Muuda",
+  "@modify": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addMore": "Lisage veel",
+  "@addMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contractValue": "Lepingu väärtus",
+  "@contractValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "taxVero": "Maks",
+  "@taxVero": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dueDate": "Maksetingimus",
+  "@dueDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chooseFile": "Vali fail",
+  "@chooseFile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noFileChoose": "Faili pole valitud",
+  "@noFileChoose": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Nimi",
+  "@name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "telephone": "Telefon",
+  "@telephone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Aadress",
+  "@address": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "type": "Tüüp",
+  "@type": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addNew": "Lisa uus",
+  "@addNew": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "creationDate": "Loomise kuupäev",
+  "@creationDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoiceId": "Arve nr.",
+  "@invoiceId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoiceTo": "Arve saaja",
+  "@invoiceTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "status": "Staatus",
+  "@status": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paidStatus": "Arve seis",
+  "@paidStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "view": "Vaata",
+  "@view": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "payment": "Maksmine",
+  "@payment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "anInvoiceWithCompensation": "Arve kompensatsioonidega",
+  "@anInvoiceWithCompensation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "add": "Lisa",
+  "@add": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myDashboard": "Töölaud",
+  "@myDashboard": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "managePayment": "Arved",
+  "@managePayment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "manageAccount": "Halda kontot",
+  "@manageAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterContractValue": "Sisestage lepingu väärtus",
+  "@enterContractValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fullhalfdaycompensation": "Terve / poole päeva hüvitis",
+  "@fullhalfdaycompensation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "companyName": "Ettevõtte nimi",
+  "@companyName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "savedAsDraft": "Salvesta mustandina",
+  "@savedAsDraft": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoiceSavedSuccessfully": "Arve salvestamine õnnestus",
+  "@invoiceSavedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "distance": "Kaugus",
+  "@distance": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeInvoice": "Koosta arve",
+  "@makeInvoice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "somethingWentToWrong": "Midagi läks valesti!",
+  "@somethingWentToWrong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInternetConnection": "Interneti-ühendus puudub",
+  "@noInternetConnection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "camera": "Kaamera",
+  "@camera": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "file": "Fail",
+  "@file": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageDeletedSuccessfully": "Pilt on edukalt kustutatud",
+  "@imageDeletedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectEmployer": "Valige tööandja",
+  "@pleaseSelectEmployer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidFileName": "Sisestage kehtiv faili nimi",
+  "@enterValidFileName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectExpiryDate": "Valige aegumiskuupäev",
+  "@pleaseSelectExpiryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectFile": "Valige fail",
+  "@pleaseSelectFile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workSafetyCard": "Tööohutuskaart",
+  "@workSafetyCard": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "idCard": "ID-Kaart",
+  "@idCard": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passport": "Pass",
+  "@passport": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drivingLicense": "Juhiluba",
+  "@drivingLicense": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "residencePermit": "Elamisluba",
+  "@residencePermit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mycv": "CV",
+  "@mycv": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "otherDocuments": "Muu",
+  "@otherDocuments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectDocumentType": "Valige dokumendi tüüp",
+  "@pleaseSelectDocumentType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidYearlyIncome": "Sisestage kehtiv aastane sissetulek",
+  "@enterValidYearlyIncome": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidPersonalTax": "Sisestage kehtiv isikumaks",
+  "@enterValidPersonalTax": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidMaxTaxPercentage": "Sisestage kehtiv maksimaalne maksuprotsent",
+  "@enterValidMaxTaxPercentage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectStartDate": "Valige alguskuupäev",
+  "@pleaseSelectStartDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "filesAreNotSavedYet": "Faile pole veel salvestatud, kuid",
+  "@filesAreNotSavedYet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "draftSavedSuccessfully": "Mustand on edukalt salvestatud",
+  "@draftSavedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectAreaOfField": "Valige välja ala",
+  "@selectAreaOfField": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "send": "Saada",
+  "@send": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insuranceRequestSentSuccessfully": "Kindlustustaotlus saadeti edukalt",
+  "@insuranceRequestSentSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInternet": "Interneti puudub",
+  "@noInternet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "checkYourInternetConnectionAndTryAgain": "Kontrollige Interneti-ühendust ja proovige uuesti.",
+  "@checkYourInternetConnectionAndTryAgain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insuranceName": "Kindlustuse nimi",
+  "@insuranceName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendEmail": "Saada email",
+  "@sendEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourName": "Sinu nimi",
+  "@yourName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourProffesion": "Sinu eriala",
+  "@yourProffesion": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lightEntrepreneurSSN": "Kerge ettevõtja SSN",
+  "@lightEntrepreneurSSN": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yelApproximateSumFor2020": "YEL - ligikaudne summa aastaks 2020",
+  "@yelApproximateSumFor2020": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone": "Telefon",
+  "@phone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsAndConditions": "Tingimused",
+  "@termsAndConditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectLanguage": "Vali keel",
+  "@selectLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "Salvesta",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "incomeLevel": "Aastane sissetulek",
+  "@incomeLevel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "receiveDocument": "Vastuvõetud Dokumendid",
+  "@receiveDocument": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoiceAmount": "Arve summa",
+  "@invoiceAmount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "payToAccount": "Makstakse arvele",
+  "@payToAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "uploadContract": "Üleslaadimisleping",
+  "@uploadContract": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectEmployer": "Valige Tööandja",
+  "@selectEmployer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fileName": "Faili nimi",
+  "@fileName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "expiryDate": "Kehtivuse lõppkuupäev",
+  "@expiryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "uploadFile": "Faili üles laadima",
+  "@uploadFile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employer": "Tööandja",
+  "@employer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employerEmail": "Tööandja e-post",
+  "@employerEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employerPhone": "Tööandja telefon",
+  "@employerPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lightEntrepreneurEmail": "Kerge ettevõtja e-post",
+  "@lightEntrepreneurEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sentOn": "Saadetud",
+  "@sentOn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "documentTitle": "Dokumendi pealkiri",
+  "@documentTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "description": "Kirjeldus",
+  "@description": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "viewFile": "Vaata faili",
+  "@viewFile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "piecesValue": "Tükkide väärtus",
+  "@piecesValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hoursValue": "Tunnihind",
+  "@hoursValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalAmount": "Kogusumma",
+  "@totalAmount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addMyDocument": "Lisa minu dokument",
+  "@addMyDocument": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "documentType": "Dokumendi liik",
+  "@documentType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "startDate": "Algus kuupäev",
+  "@startDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "documentName": "Dokumendi nimi",
+  "@documentName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lightEntrepreneurPhone": "Kerge ettevõtja telefon",
+  "@lightEntrepreneurPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lightEntrepreneurTaxNo": "Kerge ettevõtja maksunumber",
+  "@lightEntrepreneurTaxNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lightEntrepreneurBillingAddress": "Kerge ettevõtja arveldusaadress",
+  "@lightEntrepreneurBillingAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoicingEmail": "Arve esitamise e-post",
+  "@invoicingEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "worksiteAddress": "Töökoha aadress",
+  "@worksiteAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referenceNumber": "Viitenumber",
+  "@referenceNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "beginningOfWork": "Töö algus",
+  "@beginningOfWork": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workFinishedOn": "Töö on lõpetatud",
+  "@workFinishedOn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "billingInterval": "Arvelduse intervall",
+  "@billingInterval": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "otherInformation": "Muu info",
+  "@otherInformation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoicingBy": "Arve esitanud",
+  "@invoicingBy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employerSignatute": "Tööandja allkiri",
+  "@employerSignatute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lightEntrepreneurSignature": "Kerge ettevõtja allkiri",
+  "@lightEntrepreneurSignature": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "foodType": "Toidu tüüp",
+  "@foodType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "foodValue": "Toidu väärtus",
+  "@foodValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "travellingType": "Reisiv tüüp",
+  "@travellingType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "travellingValue": "Reisiväärtus",
+  "@travellingValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "acceptedByLightEntrepreneur": "Aktsepteerib kerge ettevõtja",
+  "@acceptedByLightEntrepreneur": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contractByFile": "Lepingu koopia",
+  "@contractByFile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myContract": "Minu leping",
+  "@myContract": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contractName": "Lepingu nimi",
+  "@contractName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myDocument": "Dokumendid",
+  "@myDocument": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warningYouMustAddDocumentLike": "Hoiatus! Peate lisama dokumendi nagu",
+  "@warningYouMustAddDocumentLike": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eContract": "E-leping",
+  "@eContract": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "download": "Lae alla",
+  "@download": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "documentExpired": "Dokument on aegunud",
+  "@documentExpired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "documentNotExpired": "Dokument ei ole aegunud",
+  "@documentNotExpired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accept": "Nõustun",
+  "@accept": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "agree": "Nõustun",
+  "@agree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pending": "Ootel",
+  "@pending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "days": "Päeva",
+  "@days": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "approved": "Heaks kiidetud",
+  "@approved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notPaid": "Maksmata",
+  "@notPaid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paid": "Makstud",
+  "@paid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ssn": "Isikukood",
+  "@ssn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noEmployeeFound": "Töötajat ei leitud",
+  "@noEmployeeFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contractOf": "Leping",
+  "@contractOf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select": "Valige",
+  "@select": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "vat": "Käibemaks",
+  "@vat": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bruttoSalary": "Brutto palk",
+  "@bruttoSalary": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bulkAmount": "Hulgikogus",
+  "@bulkAmount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "earnedSoFar": "Seni teenitud",
+  "@earnedSoFar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectGender": "Valige sugu",
+  "@pleaseSelectGender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidCurrentAddress": "Sisestage kehtiv praegune aadresss",
+  "@enterValidCurrentAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectCountry": "Valige riik",
+  "@pleaseSelectCountry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidCity": "Sisestage kehtiv linn",
+  "@enterValidCity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotPassword": "Unustasid parooli",
+  "@forgotPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "firstName": "Eesnimi",
+  "@firstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "Perekonnanimi",
+  "@lastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidFirstName": "Sisestage kehtiv eesnimi",
+  "@enterValidFirstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidLastName": "Sisestage kehtiv perekonnanimi",
+  "@enterValidLastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterLastName": "Sisestage perekonnanimi",
+  "@enterLastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterFirstName": "Sisestage eesnimi",
+  "@enterFirstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tACPoint1": "1. Palvelujen tarjoaminen \n\n1.1 Toimeksisaaja tarjoaa toimeksiantajalle palveluja, jotka on täsmennetty liitteessä I (ja mahdollisissa toimeksiantajan ja toimeksisaajan kesken myöhemmin tehtävissä liitteissä, jotka täydentävät ajoittain tätä sopimusta ja muodostavat sen osan) ja jotka ovat tämän sopimuksen ehtojen kohteena. Toimeksisaaja käyttää kohtuullisia keinoja noudattaakseen kaikkia aikatauluja tai muita tavoitteita toimeksiantajan ja toimeksisaajan kesken kirjallisesti sovittujen palvelujen etenemistä, toimittamista tai loppuun saattamista varten. \n\n1.2 Toimeksisaaja varmistaa, että hän noudattaa palveluja tarjotessaan kaikkia palvelujen tarjoamisen kannalta merkityksellisiä sovellettavia lakeja, asetuksia ja määräyksiä (mukaan lukien mutta ei ainoastaan lakisääteisiä velvoitteita sekä tietosuojaa, terveyttä ja turvallisuutta koskevia säädöksiä). \n\n1.3 Toimeksisaaja noudattaa kaikkia kohtuullisia turvallisuusstandardeja sekä toimeksiantajan kulloinkin voimassa olevia terveys- ja turvallisuusmenettelyjä sekä raportoi toimeksiantajalle kaikista epäturvallisista työskentelyoloista ja -käytänteistä. \n\n1.4 Toimeksisaaja noudattaa toimeksiantajan käytänteitä, jotka koskevat sosiaalisen median käyttöä, luottamuksellisuutta, turvallisuutta, tietojenkäsittely- ja tietoliikennejärjestelmien käyttöä, syrjinnän ja kiusaamisen ehkäisyä, menettelysääntöjä sekä kaikkia muita toimeksiantajan silloin tällöin julkaisemia käytänteitä, jotka koskevat urakoitsijoita. \n\n1.5 Toimeksisaaja tarjoaa palveluja huolellisesti ja ammattitaitoisesti sekä myötävaikuttaa kaikkiin laadunvarmistustoimenpiteisiin, joista toimeksiantaja ilmoittaa toimeksisaajalle. \n\n1.6 Minkä tahansa palvelujen tuloksena syntyneen virheellisen tai viallisen työsuorituksen toimeksisaaja korjaa omalla ajalla ja kustannuksella. \n\n1.7 Palveluja tarjotaan toimeksiantajan silloin tällöin täsmentämillä työmailla. \n\n1.8 Toimeksiantaja antaa toimeksisaajan käyttöön laitteet, joita voidaan kohtuullisesti tarvita palvelujen tarjoamiseen, muun muassa (tarvittaessa) asianmukaisen tietokoneen, ääni- ja datatekniikan ja sopivan auton (yrityskäyttöön asianmukaisesti vakuutettuna). Sellaisten laitteiden asianmukainen vakuuttaminen on toimeksiantajan vastuulla. \n\n1.9 Toimeksisaajalta ei vaadita palvelujen ulkopuolelle jäävän neuvon ja avun antamista. \n\n1.10 Paitsi siinä määrin kuin toimeksiantaja vaatii sekä kokousten ja yhteydenpidon järjestäminen pakottaa, toimeksisaaja määrää palvelujen tarjoamisen ajan ja paikan, ja tässä sopimuksessa säädettyä lukuun ottamatta toimeksisaaja ja toimeksisaajan edustajat eivät toimi toimeksiantajan valvonnassa palvelujen tarjoamisen luonteen, paikan, ajan tai tavan osalta. \n\n1.11 Toimeksisaaja noudattaa EU:n työaikadirektiiviä 2003 sellaisena kuin sitä sovelletaan EU:n jäsenmaassa, jossa palveluja tarjoava toimeksisaaja suorittaa toimeksiantoa. Toimeksisaaja voi ottaa loman ilmoittamalla siitä kohtuullisessa ajassa etukäteen. Selvyyden vuoksi mainittakoon, että toimeksiantaja ei ole vastuussa lomarahojen maksamisesta kenelle tahansa toimeksisaajalle. \n\n1.12 Toimeksisaaja: \n\n(a) noudattaa kaikkia sovellettavia lahjonnan ja korruption vastaisia lakeja, määräyksiä, säännöstöjä ja seuraamuksia, mukaan lukien mutta ei ainoastaan kaikkia sovellettavia rahanpesun, lahjonnan ja korruption vastaisia säädöksiä; \n\n(b) noudattaa kaikkia toimeksiantajan julkaisemia eettisiä sekä lahjonnan ja korruption vastaisia käytänteitä; \n\n(e) raportoi välittömästi toimeksiantajalle mistä tahansa aiheettoman taloudellisen tai muun edun pyynnöstä tai vaatimuksesta, jonka toimeksisaaja on saanut palvelujen tarjoamisen yhteydessä. \n\n1.13 Kohdan 1.12 noudattamatta jättäminen johtaa tämän sopimuksen välittömään päättymiseen ilman irtisanomisaikaa. \n\n2. Maksaminen \n\n2.1 Työsuorituksen ollessa tyydyttävä toimeksiantaja suostuu maksamaan palveluista toimeksisaajalle asianmukaisessa liitteessä täsmennetyn aikataulun ja hinnaston mukaan. Toimeksiantaja suorittaa maksut toimeksisaajalle kuukausittain jälkikäteen 7 päivän kuluessa saatuaan toimeksisaajan allekirjoittaman pätevän ja täsmällisen laskun, jota tukevat työaikalomakkeet (tai tarvittaessa projektiraportit, joissa on esitetty yksityiskohtaisesti työsuoritus ja eritelty käytetty tuntimäärä). \n\n2.2 Suoritetut maksut liittyvät vain sellaisiin päiviin tai sellaisten päivien osuuteen, jolloin palveluja on todella tarjottu, ja toimeksiantaja ei suorita mitään maksua, ellei laskua tue toimeksiantajan edustajan ohjeiden mukaan oikein täytetty ja toimeksiantajan edustajan asianmukaisesti hyväksymä työaikalomake. Työaikalomakkeiden hankkiminen toimeksiantajalta ja hyväksyttäminen toimeksiantajalla on toimeksisaajan velvollisuus. \n\n3. Kulut \n\n3.1 Toimeksiantaja ei korvaa toimeksisaajalle mitään koituneita kuluja, ellei aikataulussa toisin mainita. \n\n4. Voimassaoloaika ja päättyminen \n\n4.1 Tämä sopimus jää voimaan, kunnes kaikki toimeksiannot on suoritettu asianmukaisissa liitteissä määritellyllä tavalla, ellei sitä sanota irti aikaisemmin tämän sopimuksen ehtojen mukaan tai jatketa toimeksiantajan ja toimeksisaajan välisellä sopimuksella. \n\n4.2 Rajoittamatta muiden oikeuksien tai keinojen soveltamista, joihin toimeksiantaja voi olla oikeutettu tämän sopimuksen mukaan, toimeksiantaja voi päättää tämän sopimuksen ilman irtisanomista ja välittömin vaikutuksin ja ilman velvollisuutta suorittaa toimeksisaajalle lisää maksuja (muita kuin ennen sellaisen päättämisen päivämäärää kertyneitä rahamääriä), jos milloin tahansa: \n\n4.2.1 toimeksisaaja rikkoo tai jättää noudattamatta vakavasti tai toistuvasti minkä tahansa tämän sopimuksen säännöksen tai kieltäytyy noudattamasta mitä tahansa toimeksiantajan kohtuullisia ja laillisia ohjeita tai lyö sellaiset ohjeet laimin; \n\n4.2.2 toimeksisaaja syyllistyy mihin tahansa rikokseen (lukuun ottamatta tieliikennerikkomusta, josta seuraa sakko tai vankeusrangaistukselle vaihtoehtoinen seuraamus); \n\n4.2.3 toimeksisaaja on toimeksiantajan kohtuullisen lausunnon mukaan palveluja tarjotessaan huolimaton tai epäpätevä; \n\n4.2.4 toimeksisaaja ajautuu konkurssiin tai hakeutuu vapaaehtoiseen velkajärjestelyyn; \n\n4.2.5 toimeksisaaja syyllistyy petokseen tai epärehellisyyteen tai toimii millä tahansa tavalla, joka toimeksiantajan mielestä saattaa tai voi saattaa toimeksisaajan tai toimeksiantajan huonoon maineeseen tai loukkaa toimeksiantajan varallisia etuja; \n\n4.2.6 toimeksisaaja rikkoo vakavasti toimeksiantajan käytänteitä ja menettelytapoja; taikka \n\n4.2.8 toimeksisaaja päästää tahallaan tai tuottamuksesta viruksen tai muun haitallisen koodin toimeksisaajan tai toimeksiantajan laitteistoon tai ohjelmistoon, jota käytetään palvelujen tarjoamisessa. \n\n4.3 Milloin tahansa tämän sopimuksen voimassaoloaikana ja joka tapauksessa tämän sopimuksen päättyessä mistä tahansa syystä: \n\n4.3.1 toimeksiantajalla on oikeus saada kopio koko toimeksisaajan tekemästä tai loppuun suorittamasta työstä, joka liittyy tämän sopimuksen mukaisten palvelujen tarjoamiseen, sellaisessa muodossa, jossa se kulloinkin on; sekä \n\n4.3.2 toimeksisaaja palauttaa toimeksiantajalle kaikki laitteet, asiakirjat ja muun toimeksisaajan hallussa olevan toimeksiantajalle kuuluvan omaisuuden. \n\n4.4 Toimeksiantaja voi toimeksisaajan kanssa tekemällään sopimuksella jatkaa sopimuksen voimassaoloaikaa osapuolten kesken sovituksi ajaksi. \n\n5. Immateriaaliomaisuus \n\n5.1 Kaikki immateriaalioikeudet riippumatta niiden luonteesta (mukaan lukien mutta ei ainoastaan tekijän-, malli- ja patenttioikeudet), jotka koskevat mitä tahansa toimeksisaajan palvelujen tarjoamisen aikana tekemää työtä tai tuottamaa aineistoa (”projektiaineisto”), kuuluvat aina toimeksiantajalle ja ovat vapaita mistä tahansa toimeksisaajan, toimeksisaajan edustajan tai kolmannen osapuolen eduista. Toimeksisaaja tekee kaiken mitä toimeksiantaja voi vaatia kohtuudella valvoakseen sellaisten oikeuksien kuulumista toimeksiantajalle tai toimeksiantajan täsmentämälle kolmannelle osapuolelle tai todistaakseen samaa (joko ennen tämän sopimuksen päättymistä tai sen jälkeen). \n\n5.2 Toimeksiantaja säilyttää kaikkien immateriaalioikeuksien omistuksen riippumatta niiden luonteesta ja hänen omistukseensa jäävät – jos rekisteröitävissä, joko rekisteröity tai ei – toimeksisaajalle tämän sopimuksen yhteydessä annetut asiakirjat tai muu aineisto, data ja muut tiedot. \n\n5.3 Toimeksisaaja paljastaa välittömästi toimeksiantajalle kaikki ideat, menetelmät, keksinnöt, löydöt, mallit, konseptit tai muut työsuoritukset, jotka toimeksisaaja on tehnyt tai luonut palvelujen tarjoamisen aikana. \n\n5.4. Toimeksisaaja takaa, että tarjotut palvelut eivät loukkaa kenenkään kolmannen osapuolen immateriaalioikeuksia, ja korvaa toimeksiantajalle kaikki toimenpiteet, vaatimukset, kulut, kustannukset, vahingot, pyynnöt ja vastuut, jotka aiheutuvat tai ovat seurausta mistä tahansa kolmannen osapuolen väitteestä, että toimeksisaajan tähän sopimukseen liittyvän työsuorituksen tai hänen toimittamansa sisällön käyttö tai hallussapito loukkaa kyseisen kolmannen osapuolen immateriaalioikeuksia, paitsi jos sellainen loukkaaminen johtuu suoraan toimeksiantajan antamien tietojen noudattamisesta. \n\n5.5 Täten toimeksisaaja luopuu ehdottomasti, peruuttamattomasti ja ikuisesti kaikista moraalisista ja muista samanluonteisista oikeuksista projektiaineistoon kaikkien maiden lakien mukaan. \n\n5.6 Kohdan 5 säännökset ovat voimassa myös tämän sopimuksen päättymisen tai irtisanomisen jälkeen. \n\n6. Ylivoimainen este \n\n6.1 Kumpikaan osapuoli ei ole vastuussa toiselle osapuolelle viivästyksestä tai katoamisesta, joka aiheutuu sellaisesta olosuhteesta, jota hän ei pysty kohtuullisilla ponnistuksilla hallitsemaan tai estämään (mukaan lukien mutta ei ainoastaan sota, työmarkkinakiista, tulipalo, räjähdys, luonnonkatastrofi, kuolema). \n\n7. Muu toiminta \n\n7.1 Mikään tässä sopimuksessa ei estä toimeksisaajaa olemasta asianosaisena tai omistamasta kuinka tahansa suurta taloudellista etua missä tahansa muussa liiketoiminnassa, kaupassa, ammatissa tai toimessa tämän sopimuksen voimassaoloaikana ja tämän sopimuksen päättymisen jälkeen, mikäli sellainen toiminta ei aiheuta toimeksisaajan tämän sopimuksen mukaisten (etenkin kohdassa 8 tarkoitettujen) velvollisuuksien laiminlyöntiä. \n\n8. Luottamuksellisuus \n\n8.1 Termi ”luottamuksellinen tieto” tarkoittaa kaikkia tämän sopimuksen tuloksena toimeksiantajan tai kolmannen osapuolen paljastamia tai muulla tavoin häneltä saatuja aineistoja ja tietoja, sekä kirjallisia että suullisia, mukaan lukien mutta ei ainoastaan seuraavia: \n\n8.1.1 tekninen, taloudellinen, kaupallinen tai muu tieto, joka koskee toimeksiantajan tai kolmannen osapuolen tai heidän tytäryhtiöidensä, asiakkaidensa, edustajiensa, alihankkijoidensa liiketoimintaa, rahoitusasioita, toimintatapoja tai ehdotettuja toimintatapoja, tilejä, tilitapahtumia tai tuotteita, ehdotettuja tilitapahtumia tai ehdotettuja tuotteita, turvamenettelyjä, liikesalaisuuksia, osaamista, keksintöjä, sisäisiä tarkastuksia tai tietokone- tai tietojenkäsittelyohjelmia, algoritmeja, sähköisiä tietojenkäsittelysovelluksia, rutiineja, alirutiineja, tekniikoita tai järjestelmiä \n\n8.1.2 tieto tai data, joka liittyy toimeksiantajan tai kolmannen osapuolen järjestelmiin, toimintaan, käytänteisiin, menettelytapoihin, tekniikkoihin, liiketoimintasuunnitelmiin, tileihin tai henkilöstöön \n\n8.1.3 tunniste- ja muut vastaavat tiedot toimeksiantajan tai kolmannen osapuolen tavarantoimittajista ja asiakkaista. \n\n8.2 Edellä olevan estämättä ”luottamuksellisena tietona” ei pidetä tietoa, joka: \n\n8.2.1 tulee yleisesti yleisön saataville ilman toimeksisaajan tekoa tai oletusarvoisesti \n\n8.2.2 oli jo ennen luottamuksellisen tiedon saantia toimeksiantajalta tai kolmannelta osapuolelta toimeksisaajan käytettävissä ilman paljastamista koskevia rajoituksia. \n\n8.3 Toimeksisaaja suostuu: \n\n8.3.1 toteuttamaan kaikki kohtuulliset toimenpiteet luottamuksellisen tiedon suojaamiseksi luvattomalta tai tahattomalta paljastamiselta, muun muassa sellaiset, jotka suojaavat tietoa vähintään yhtä tehokkaasti kuin toimenpiteet, joilla hän suojaa samanluonteisia omia tietojaan \n\n8.3.2 olemaan julkistamatta tai paljastamatta tosiasiaa, että luottamuksellinen tieto on saatettu saataville tai että hän on tehnyt kyseistä aihetta koskevan sopimuksen \n\n8.3.3 sallimaan yrityksen sisäisen pääsyn luottamukselliseen tietoon vain sellaisille työntekijöille ja ulkopuolisille konsulteille, joiden ”pitää tietää” se ja jotka ovat joko sellaisten salassapitokäytänteiden asianosaisia, jotka toimeksiantaja on ottanut käyttöön heidän työnantajanaan, tai ovat tehneet kohtuullisen salassapitosopimuksen, jonka nojalla voidaan pitää luottamukselliset tiedot salassa \n\n8.3.4 olemaan vastuussa mistä tahansa tämän sopimuksen rikkomisesta työntekijöidensä, ulkopuolisten konsulttiensa tai edustajiensa toimesta \n\n8.3.5 siihen, että luottamuksellisen tiedon palauttamisesta huolimatta tämän kohdan 8 mukaan hän pitää jatkuvasti salassa kaikki luottamukselliset tiedot ja varmistaa, että sitä tekevät myös hänen työntekijänsä, ulkopuoliset konsulttinsa ja edustajansa, mikä velvollisuus pysyy myös tämän sopimuksen päättymisen tai irtisanomisen jälkeen \n\n8.3.6 siihen, että toimeksiantajalla on oikeus sellaiseen toimivaltaisen tuomioistuimen kieltotuomioon tai muuhun vastaavaan määräykseen, joka voi olla välttämätön tai asianmukainen ehkäisemään mitä tahansa luottamuksellisen tiedon käyttöä tai paljastamista millä tahansa tavalla, jota toimeksiantaja tai kolmas osapuoli ei ole sallinut, ilman tarvetta näyttää toteen todelliset vahingot sellaisten vahinkojen lisäksi ja riippumatta sellaisista vahingoista, jotka toimeksiantaja tai kolmas osapuoli on aiheuttanut rikkomisen tuloksena; sekä \n\n8.3.7 siihen, että toimeksiantajan pyynnöstä milloin tahansa toimeksisaaja viipymättä joko toimittaa toimeksiantajalle kaikki aineellisessa muodossa olevat luottamukselliset tiedot, jotka ovat hänen hallussaan tai hallinnassaan, tai toimeksiantajan näin määrätessä vakuuttaa kirjallisesti toimeksiantajalle, että kaikki sellaiset luottamukselliset tiedot on hävitetty. \n\n8.4 Jos toimeksisaajaa pyydetään tai vaaditaan (suullisella kysymyksellä, kuulustelulla, tieto- tai asiakirjojapyynnöllä, haasteella, siviilioikeudellisella tutkintavaatimuksella tai muulla vastaavalla menettelyllä) paljastamaan mitä tahansa luottamuksellista tietoa, on sovittu, että hänen tulee lain sallimassa laajuudessa ilmoittaa viipymättä toimeksiantajalle sellaisesta pyynnöstä tai velvollisuudesta, jotta toimeksiantaja voi turvautua asianmukaiseen suojatoimenpiteeseen ja/tai luopua noudattamasta tämän sopimuksen säännöksiä. \n\n8.5 Kohdan 8 säännökset ovat voimassa myös tämän sopimuksen päättymisen tai irtisanomisen jälkeen. \n\n9. Velvollisuuksien vastavuoroisuus \n\n9.1 Ei toimeksiantajalla eikä toimeksisaajalla ole velvollisuutta toimittaa työsuorituksia tai palveluja tulevaisuudessa, kun tämän sopimuksen mukaisten palvelujen tarjoaminen on suoritettu loppuun tai tämä sopimus on mistä tahansa syystä päättynyt. \n\n10. Kevytyrittäjyys \n\n10.1 Tämän sopimuksen toimeksiantajan kanssa toimeksisaaja on tehnyt kevyrittäjänä. Selvyyden vuoksi mainittakoon, että toimeksisaaja toimii tämän sopimuksen yhteydessä riippumattomana konsulttina. Toimeksisaaja ei ole nyt eikä tulevaisuudessa toimeksiantajan työntekijä tai edustaja, ja toimeksisaaja ottaa täyden vastuun toimistaan ja laiminlyönneistään. \n\n11. Korvausvelvollisuus \n\n11.1 Toimeksisaaja on korvausvelvollinen ja pysyy korvausvelvollisena toimeksiantajalle, sen johtajille, työntekijöille ja edustajille kaikkien toimien, vaatimusten, kulujen, kustannusten, vahinkojen ja vastuiden osalta, jotka aiheutuvat tai ovat seurausta mistä tahansa toimeksisaajan huolimattomasta, väärästä tai laittomasta toimesta tai laiminlyönnistä. \n\n11.2 Rajoittamatta edellä sanottua toimeksisaaja sitoutuu täten olemaan korvausvelvollinen ja pysymään korvausvelvollisena toimeksiantajalle minkä tahansa vahingon, vaatimuksen, menetyksen, kustannuksen, väitteen, toimen tai vastuun osalta, joka johtuu siitä, että toimeksisaaja on rikkonut tätä sopimusta. \n\n12. Vastuu \n\n12.1 Missään tapauksessa kumpikaan osapuoli ei ole vastuussa toiselle mistään epäsuorasta, erityisestä tai välillisestä menetyksestä tai vahingosta, joka aiheutuu tästä sopimuksesta tai liittyy siihen. Erityisesti ja rajoittumatta edellä mainittuun kumpikaan osapuoli ei ole vastuussa toisen kärsimästä liiketoiminnan, tuoton, voiton, edellytetyn säästö ja liikearvon menetyksestä, paitsi jos sellainen menetys syntyy tämän sopimuksen rikkomisen tuloksena. \n\n12.2 Kumpikaan osapuoli ei sulje pois tai rajoita vastuuta kuolemasta tai henkilövahingosta vain siinä määrin kuin sama syntyy hänen itsensä tai hänen työntekijöidensä, edustajiensa tai valtuutettujen edustajiensa huolimattomuuden seurauksena. \n\n13. ALV \n\n13.1 Kaikki summat, jotka toimeksiantajan on maksettava toimeksisaajalle, ovat verottomia, ellei toisin sovita, joten arvonlisäverosta vastaa toimeksisaaja ja se veloitetaan laskutuspäivänä voimassa olevan palkkiomäärän lisäksi. \n\n14. Julkisuus \n\n14.1 Toimeksisaaja ei julkista tähän sopimukseen tai sen asiasisältöön liittyviä tietoja muuhun tarkoitukseen kuin tässä sopimuksessa sallittuihin tarkoituksiin ja toimeksiantajan suostumuksella tai jos niiden julkistamista vaatii laki. \n\n15. Vakuutukset \n\n15.1 Tämän sopimuksen edellytyksenä on, että toimeksisaaja ottaa ammatillisen vastuuvakuutuksen vähintään 1 miljoonalle punnalle sekä työnantajan vastuun ja julkisen vastuun vakuutuksen yhteensä vähintään 1 miljoonalle punnalle koko sopimuksen määräajaksi (mukaan lukien sovittu jatkoaika) ja toimittaa toimeksiantajan pyynnöstä toimeksiantajalle 7 päivän kuluessa kunkin vakuutustodistuksen kopion. \n\n17. Jaettavuus \n\n17.1 Jos jokin tämän sopimuksen säännös tai osa on pätemätön tai täytäntöönpanokelvoton, sopimuksen muiden säännösten ja osien voimassaolo jatkuu kaikilta osin. \n\n18. Luopuminen \n\n18.1 Jommankumman osapuolen luopumista jostakin tämän sopimuksen laiminlyönnistä tai rikkomisesta ei pidetä luopumisena sen muusta tai seuraavasta laiminlyönnistä tai rikkomisesta. \n\n19. Koko sopimus \n\n19.1 Tätä sopimusta ei voida muuttaa tai täydentää muulla tavalla kuin osapuolten välisellä kirjallisella sopimuksella, jonka molemmat osapuolet vahvistavat allekirjoituksellaan. \n\n20. Rakenne \n\n20.1 Väliotsikot on lisätty vain mukavuussyistä, eikä niitä saa käyttää minkä tahansa tämän sopimuksen säännöksen rakentamiseen. \n\n21. Sovellettava laki \n\n21.1 Tähän sopimukseen ja sen tulkintaan sovelletaan Suomen lakia. Osapuolet sopivat antavansa yksinomaisen toimivallan Suomen tuomioistuimille. ",
+  "@tACPoint1": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "taxCard": "maksumaksja kaardi",
+  "@taxCard": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "foodCompensation": "Lõuna hüvitis",
+  "@foodCompensation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hoursWorked": "Töötatud tunnid",
+  "@hoursWorked": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "amount": "Kokku",
+  "@amount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contruction": "Ehitussektori KM pöördmaksustus AVL 8 c §",
+  "@contruction": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notSelected": "pole valitud",
+  "@notSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerSuccessfull": "Registreerimine õnnestus!Teie konto on läbivaatamisel.",
+  "@registerSuccessfull": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "value": "Hind",
+  "@value": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workbook": "Tööraamat",
+  "@workbook": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "male": "mees",
+  "@male": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "female": "naine",
+  "@female": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addDetails": "Lisa päevakiri",
+  "@addDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInvoices": "Arved puuduvad",
+  "@noInvoices": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidConfirmPassword": "Sisestage kehtiv kinnita salasõna",
+  "@enterValidConfirmPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPassword": "Kinnita salasõna",
+  "@confirmPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "company": "Ettevõte",
+  "@company": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "client": "Eraisik",
+  "@client": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoiceRecipient": "Arve saaja",
+  "@invoiceRecipient": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workDetails": "Üksikasjad",
+  "@workDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseAddOrUpdateYourTaxCard": "Lisage või värskendage oma maksukaarti",
+  "@pleaseAddOrUpdateYourTaxCard": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "distanceTravelled": "Sõidukompensatsioon",
+  "@distanceTravelled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "construction": "Ehitus",
+  "@construction": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cleaningServices": "Puhastusteenused",
+  "@cleaningServices": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "transportationServices": "Transporditeenused",
+  "@transportationServices": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notInUse": "Ei ole kasutuses",
+  "@notInUse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "entervalidHoursvalue": "Sisestage kehtiv tunnihind",
+  "@entervalidHoursvalue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidPiecesvalue": "Sisestage kehtiv tükkide väärtus",
+  "@enterValidPiecesvalue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidKm": "Sisestage kehtiv kilomeetrid",
+  "@enterValidKm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidDocumentName": "Sisestage kehtiv Dokumendi nimi",
+  "@enterValidDocumentName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendInvitation": "Saada kutse",
+  "@sendInvitation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "link": "Link",
+  "@link": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "linkCopySuccessfully": "Linkimise kopeerimine õnnestus",
+  "@linkCopySuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invitationLinkSentSuccessfully": "Kutse lingi saatmine õnnestus",
+  "@invitationLinkSentSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

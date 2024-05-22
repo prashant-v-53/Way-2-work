@@ -1,0 +1,92 @@
+name: way_to_work
+description: A new Flutter application.
+publish_to: "none"
+version: 1.0.5+7
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# ███╗░░░███╗██╗░█████╗░██████╗░░█████╗░  ░██████╗░█████╗░██╗░░░░░  #
+# ████╗░████║██║██╔══██╗██╔══██╗██╔══██╗  ██╔════╝██╔══██╗██║░░░░░  #
+# ██╔████╔██║██║██║░░╚═╝██████╔╝███████║  ╚█████╗░██║░░██║██║░░░░░  #
+# ██║╚██╔╝██║██║██║░░██╗██╔══██╗██╔══██║  ░╚═══██╗██║░░██║██║░░░░░  #
+# ██║░╚═╝░██║██║╚█████╔╝██║░░██║██║░░██║  ██████╔╝╚█████╔╝███████╗  #
+# ╚═╝░░░░░╚═╝╚═╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝  ╚═════╝░░╚════╝░╚══════╝  #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # For Directory Structure
+  mvc_pattern: ^6.5.0
+  # For Configuration setup
+  global_configuration: ^1.6.0
+  # Network calls
+  http: ^0.12.2
+  # Local Storage
+  shared_preferences: ^0.5.12+2
+  # Device information
+  device_info: ^1.0.0
+  # Alert messages
+  fluttertoast: ^7.1.6
+  # Internationalization and Localization
+  intl: ^0.16.1
+  # For File Pick
+  file_picker: ^2.0.13
+  # For file path
+  path: ^1.6.4
+  # For multipart file api
+  dio: ^3.0.10
+  # Image Pick from camera
+  image_picker: ^0.6.7+14
+  # Url launch
+  url_launcher: ^5.7.10
+  # Translation
+  intl_translation: ^0.17.10+1
+  # Provider
+  provider: ^4.3.2+2
+  # Internet cnnection
+  data_connection_checker: ^0.3.4
+  # To Recieve Local notification
+  flutter_local_notifications: ^3.0.3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# The following section is specific to Flutter.
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/cfg/
+    - assets/images/
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
